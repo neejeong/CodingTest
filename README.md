@@ -2,15 +2,14 @@
 
 소스코드 블록 작성 : 
 
-'''c
+```c
 #include <stdio.h>
+
 int main(void){
   printf("Hello World!");
   return 0;
   }
-
-
-'''
+```
 
 링크 작성
 [블로그 주소](http:/blog.naver.com/ndb796)
@@ -31,6 +30,7 @@ int main(void){
 
 이름|영어|정보|수학
 ---|---|---|---|
+전희정|98점|100점|97점|
 
 강조
 bold : **치킨**
