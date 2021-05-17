@@ -1,2 +1,2 @@
 language = "python3"
-run ="python lrdu.py"
+run ="python knight.py"
